@@ -5,7 +5,7 @@ This repository houses a collection of projects and coursework assignments devel
 ## Contributors
 
 **[Shahab Sherafat](https://github.com/shahabsherafat)** \
-**[Sepanta Ghonoodi](https://github.com/sepanta-ghonoodi)** \
+**[Sepanta Ghonoodi](https://github.com/sepantagh)** \
 **[Mahdi Yari](https://github.com/mahdiyari15)**
 
 ## 📁 Repository Structure
